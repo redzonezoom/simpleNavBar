@@ -8,18 +8,7 @@ header {
   background: linear-gradient(90deg, rgba(0,22,102,1) 34%, rgba(65,102,242,1) 55%);
 }
 
-header::after {
-  content: '';
-  display: table;
-  clear: both;
-}
 
-.logo {
-  float: right;
-  padding: 1% 0;
-  max-width: 5rem;
-  height: auto;
-}
 
 nav {
   float: left;
