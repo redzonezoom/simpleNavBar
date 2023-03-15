@@ -15,14 +15,14 @@ header::after {
 }
 
 .logo {
-  float: left;
+  float: right;
   padding: 1% 0;
   max-width: 5rem;
   height: auto;
 }
 
 nav {
-  float: right;
+  float: left;
 }
 
 nav ul {
